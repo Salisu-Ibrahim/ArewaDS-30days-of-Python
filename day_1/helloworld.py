@@ -26,10 +26,10 @@ print(3//4)
 
 # Write strings on the python interactive shell. The strings are the following:
 # Your name
-print("Abubakar")
+print("Salisu")
 
 # Your family name
-print("Zandam")
+print("Ibrahim")
 
 # Your country
 print("Nigeria")
@@ -54,10 +54,10 @@ print(type(4 - 4j))
 print(type(['Asabeneh', 'Python', 'Finland']))
 
 # Your name
-print(type("Abubakar"))
+print(type("Salisu"))
 
 # Your family name
-print(type("Zandam"))
+print(type("Ibrahim"))
 
 # Your country
 print(type("Nigeria"))
@@ -65,30 +65,30 @@ print(type("Nigeria"))
 # Write an example for different Python data types 
 # such as Number(Integer, Float, Complex), String, Boolean, List, Tuple, Set and Dictionary.
 print("Integer Examples")
-print(1)
-print(4)
+print(2)
+print(6)
 
 print("Float Examples")
 print(3.14)
-print(20.4)
+print(15.4)
 
 print("Complex Examples")
 print(2 + 2j)
 
 print("String Examples")
-print("Muhammad")
+print("Aliyu")
 
 print("List Examples")
-print(['Abubakar', 4, 'Isa', 3.12])
+print(['Salisu', 4, 'Umar', 3.12])
 
 print("Tuple Examples")
-print(('Muhammad', 'Aliyu'))
+print(('Abdullahi', 'Usman'))
 
 print("Set Examples")
-print({2, 5, 7})
+print({5, 3, 9})
 
 print("Dictionary Examples")
-print({'aliyu': 20, 'kabir': 30})
+print({'haruna': 20, 'kabiru': 30})
 
 print("Euclidean Distance")
 import math
