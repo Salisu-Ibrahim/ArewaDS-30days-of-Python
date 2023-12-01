@@ -88,7 +88,7 @@ print("Set Examples")
 print({5, 3, 9})
 
 print("Dictionary Examples")
-print({'haruna': 20, 'kabiru': 30})
+print({'haruna': 22, 'kabiru': 30})
 
 print("Euclidean Distance")
 import math
